@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="x-cube-ai">resources/x-cube-ai.png</file>
+    <file alias="st-logo">resources/st-logo.png</file>
+
+</qresource>
+</RCC>

@@ -1,0 +1,8 @@
+numpy
+pandas
+PySide2
+PyInstaller
+pyqtgraph
+pyserial
+pyusb
+

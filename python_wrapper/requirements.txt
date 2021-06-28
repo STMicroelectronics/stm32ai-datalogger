@@ -1,0 +1,5 @@
+numpy
+pyserial
+pyusb
+Pillow
+matplotlib
